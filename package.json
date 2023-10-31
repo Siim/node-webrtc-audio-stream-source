@@ -17,6 +17,6 @@
     "yarn-upgrade-all": "^0.5.4"
   },
   "peerDependencies": {
-    "@koush/wrtc": "^0.5.3",
+    "@koush/wrtc": "^0.5.3"
   }
 }
