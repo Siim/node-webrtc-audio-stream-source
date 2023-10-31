@@ -6,7 +6,7 @@ This library gives you a [RTCAudioSource](https://github.com/node-webrtc/node-we
 ## Install
 
 ```
-yarn add node-webrtc-audio-stream-source wrtc
+yarn add node-webrtc-audio-stream-source @koush/wrtc
 ```
 
 
