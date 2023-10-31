@@ -1,4 +1,4 @@
-import wrtc from 'wrtc';
+import wrtc from '@koush/wrtc';
 import {Readable} from 'stream';
 
 class NodeWebRtcAudioStreamSource extends wrtc.nonstandard.RTCAudioSource {
