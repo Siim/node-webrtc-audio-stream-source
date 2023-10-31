@@ -1,4 +1,4 @@
-import wrtc from 'wrtc';
+import wrtc from '@koush/wrtc';
 import fs from 'fs';
 import assert from 'assert';
 
